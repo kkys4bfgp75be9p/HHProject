@@ -270,7 +270,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Arial, Helvetica;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
@@ -3770,7 +3770,7 @@ a.badge:focus {
   z-index: 1070;
   display: block;
   visibility: visible;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Arial, Helvetica;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.4;
@@ -3877,7 +3877,7 @@ a.badge:focus {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Trebuchet MS", Arial, Helvetica;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.42857143;
@@ -4283,5 +4283,8 @@ a.badge:focus {
   bottom: 0;
   width: 100%;
   background-color: #f5f5f5;
+}
+.footer__header {
+  font-size: 16px;
 }
 /*# sourceMappingURL=/styles/main.css.map */

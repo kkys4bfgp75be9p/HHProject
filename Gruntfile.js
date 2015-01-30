@@ -207,16 +207,6 @@ module.exports = function (grunt) {
           '.tmp/': ['<%= yeoman.app %>/templates/pages/*.hbs']
         }
       },
-      styleguide: {
-        options: {
-          layout: 'styleguide-layout.hbs',
-          partials: ['<%= yeoman.app %>/templates/partials/*.hbs']
-        },
-        files: {
-          // '<%= yeoman.dist %>/' : ['<%= yeoman.app %>/templates/pages/*.hbs']
-          '.tmp/': ['<%= yeoman.app %>/templates/pages/*.hbs']
-        }
-      },
       server: {
         files: {
           '.tmp/': ['<%= yeoman.app %>/templates/pages/*.hbs']
