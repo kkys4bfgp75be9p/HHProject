@@ -1,1 +1,8 @@
 .idea/*.*
+
+.tmp/*.*
+
+app/bower_components/*.*
+
+dist/*.*
+
