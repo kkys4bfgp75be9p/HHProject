@@ -1,9 +1,9 @@
-.idea/*.*
+.idea/**
 
-.tmp/*.*
+.tmp/**
 
-app/bower_components/*.*
+app/bower_components/**
 
-dist/*.*
+dist/**
 
-node_modules/*.*
+node_modules/**
